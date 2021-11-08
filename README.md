@@ -70,6 +70,13 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ### 💻 Software and tools
 
 <p>
+   <a href="#"><img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white"></a>
+    <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white"></a>
+    <a href="#"><img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white"></a>
+    <a href="#"><img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?logo=prometheus&logoColor=white"></a>
+    <a href="#"><img alt="SonarQube" src="https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white"></a>
+    <a href="#"><img alt="Socket.io
+" src="https://img.shields.io/badge/-Socket.io-010101?logo=socketdotio&logoColor=white"></a>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
